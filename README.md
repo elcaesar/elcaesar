@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I am Cesar Romero
+<p>I am a web developer with 1 and a half years of experience in the software industry. I focus on the area of full-stack development with ReactJS (front) and NodeJS (back) with TypeScript, I also have knowledge of PHP with the Laravel frameqork, and I have experience in MySQL, PostgreSQL and version control with Git.</p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
